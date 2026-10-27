@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MiniShell/MiniShell.vcxproj" Id="7fe37f76-6d4e-4a38-8d11-076cb662bca8" />
+</Solution>
